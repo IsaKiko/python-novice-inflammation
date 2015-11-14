@@ -36,7 +36,7 @@ first and last: 1 7
 ~~~
 
 and if we loop over a list,
-the loop variable is assigned elements one at a time:
+the loop variable is assigned elements, one at a time:
 
 ~~~ {.python}
 for number in odds:
